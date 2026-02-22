@@ -1,6 +1,6 @@
 <h1>Hello there 👋, I'm Amin! </h1>
 <h3>I'm a web developer in the making, located in Gothenburg, Sweden.</h3>
-<p>I love to express my creativity through the development of reliable, scalable, and user-friendly systems.</p>
+<p>I love to express my creativity through the development of reliable, scalable, and user-friendly solutions.</p>
 <ul>
     <li>
   <img src="https://www.yrgo.se/themes/yrgo/assets/images/favicon.svg" width="20" height="20" alt="Yrgo logo"/>
